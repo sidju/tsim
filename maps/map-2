@@ -1,0 +1,12 @@
+TrainLineFile 1
+10 10
+R 2 3 1 DownRightRail NoSensor
+R 2 4 1 VerticalRail Sensor
+R 2 5 1 UpRightRail NoSensor
+R 3 3 1 HorizontalRail NoSensor
+R 3 5 1 HorizontalRail NoSensor
+R 4 3 1 DownLeftRail Sensor
+R 4 4 1 VerticalRail NoSensor
+R 4 5 1 UpLeftRail NoSensor
+T 3 5 1 Right
+.

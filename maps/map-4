@@ -1,0 +1,16 @@
+TrainLineFile 2
+20 20
+R 7 4 1 HorizontalRail NoSensor
+R 8 2 1 DownRightRail NoSensor
+R 8 3 1 VerticalRail NoSensor
+R 8 4 1 HorizontalRail NoSensor
+R 9 2 1 HorizontalRail NoSensor
+R 9 3 Custom station
+R 9 4 1 HorizontalRail NoSensor
+R 10 2 1 HorizontalRail NoSensor
+R 10 4 1 HorizontalRail NoSensor
+R 11 2 1 DownLeftRail NoSensor
+R 11 3 1 VerticalRail NoSensor
+R 11 4 1 UpLeftRail NoSensor
+R 12 4 1 HorizontalRail NoSensor
+.

@@ -1,0 +1,18 @@
+TrainLineFile 2
+10 10
+R 3 1 1 LeftStopRail NoSensor
+R 4 1 1 HorizontalRail NoSensor
+R 5 1 1 DownRightRail NoSensor
+R 5 2 1 UpRightRail NoSensor
+R 6 1 1 HorizontalRail NoSensor
+R 6 2 1 HorizontalRail NoSensor
+R 6 5 Custom updownarrow.bm2
+R 7 1 1 HorizontalRail NoSensor
+R 7 2 1 HorizontalRail Sensor
+R 8 1 1 HorizontalRail NoSensor
+R 8 2 1 HorizontalRail NoSensor
+R 9 1 1 DownLeftRail NoSensor
+R 9 2 1 UpLeftRail NoSensor
+T 7 1 2 Right
+T 8 2 1 Left
+.

@@ -1,0 +1,35 @@
+2019-09-08  Sandro Stucki <sandro.stucki@gmail.com>
+
+   * Version 0.84 (no functional changes)
+	* fix trains not being displayed after window size change.
+	* fix build errors and warnings issued by GCC 9.
+
+2008-09-11  Staffan Björnesjö <staffan.bjornesjo@gmail.com>
+
+   * Version 0.84
+	* changed configure.ac to fail if any of the libraries are missing
+
+2008-09-11  Staffan Björnesjö <staffan.bjornesjo@gmail.com>
+
+   * Version 0.83
+	* various small fixes.
+
+2008-09-09  Staffan Björnesjö <staffan.bjornesjo@gmail.com>
+
+	* Version 0.82.
+	* replaced old makefile with autoconf/automake.
+	* various small fixes.
+
+2008-09-09  Staffan Björnesjö <staffan.bjornesjo@gmail.com>
+
+	* Version 0.72.
+	* using Argp to parse command line arguments. priority, speed, audio, etc..
+
+2008-09-07  Staffan Björnesjö <staffan.bjornesjo@gmail.com>
+
+	* Version 0.71.
+	* lots of cleanup. modified .h/.c files to create a proper structure.
+
+... (unknown)
+
+

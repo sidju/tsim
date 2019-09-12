@@ -1,0 +1,14 @@
+This is the Train Simulator program.
+
+The program uses autoconf/automake, so installation should be simple.
+It has only been tested on linux, but hopefully works on other unix-like
+systems as well.
+
+The program requires the following libraries (and their headers):
+Xaw Xt Xmu X11 Xext
+
+--
+1990: Magnus Carlsson <magnus@cs.chalmers.se>
+2000: Alois Goller <algo@chl.chalmers.se>
+2008: Staffan Björnesjö <staffan.bjornesjo@gmail.com>
+
